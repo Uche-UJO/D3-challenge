@@ -13,7 +13,8 @@
 ## Healthcare Disparity Project
 
 ### Problem
-###### Created a webpage that displays the relationship between obesity levels and poverty levels in the US.
+###### Create a webpage that displays the relationship between obesity levels and poverty levels in the US. Dataset is sourced from https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml
+
 Build an interative web application to help users quickly query ufo-sightings data (https://uche-ujo.github.io/UFO-project/UFO-level-1/static/js-folder/data.js) based on different input conditions and then return a data table. 
 
 ### Process
