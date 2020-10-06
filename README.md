@@ -13,7 +13,8 @@
 ## Healthcare Disparity Project
 
 ### Problem
-###### Build an interative web application to help users quickly query ufo-sightings data (https://uche-ujo.github.io/UFO-project/UFO-level-1/static/js-folder/data.js) based on different input conditions and then return a data table. 
+###### Created a webpage that displays the relationship between obesity levels and poverty levels in the US.
+Build an interative web application to help users quickly query ufo-sightings data (https://uche-ujo.github.io/UFO-project/UFO-level-1/static/js-folder/data.js) based on different input conditions and then return a data table. 
 
 ### Process
 ###### Create a basic HTML web page and design it with CSS and Bootstrap.
