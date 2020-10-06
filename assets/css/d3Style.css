@@ -6,7 +6,7 @@
 
 .active {
   font-weight: bold;
-  fill: #000;
+  fill: rgb(8, 0, 0);
   transition: fill 0.3s ease-out;
   text-anchor: middle;
 }
